@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+write some word xD 
+just for test
